@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Gamarra et al., "The nucleosomal acidic patch relieves auto-inhibition by the ISWI remodeler SNF2h". eLife, 2018. http://dx.doi.org/10.7554/eLife.35322
+
+
 # Traces: single molecule FRET analysis code
 
 Traces is a software suite designed to calculate FRET-versus-time trajectories (“traces”) from a standard prism-based TIRF single-molecule FRET (smFRET) microscopy setup. It can be run as a stand-alone analysis suite, but it is written as modularly as possible with the hope that it can be adapted fairly easily to other microscopy setups and acquisition software.  
